@@ -22,7 +22,8 @@ Atualmente, estou estudando e aprimorando minhas habilidades em desenvolvimento 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js">
 
   <span style="background-color: white; padding: 5px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" alt="Express" title="Express">
+    <img src="   https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+          " width="45" height="45" alt="Express" title="Express">
   </span>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL">
