@@ -11,8 +11,6 @@ Atualmente, estou estudando e aprimorando minhas habilidades em desenvolvimento 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" title="CSS3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" title="Next.js">
-</p>
 
 ### Back-End e Bancos de Dados
 
